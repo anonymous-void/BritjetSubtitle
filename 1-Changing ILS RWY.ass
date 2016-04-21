@@ -16,8 +16,9 @@ Video File: ../1 - Changing runways on ILS approach.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 11
-Video Position: 849
+Scroll Position: 6
+Active Line: 23
+Video Position: 1626
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,4 +41,16 @@ Dialogue: 0,0:00:26.49,0:00:28.77,英文字幕,,0,0,0,,showing some aspects of t
 Dialogue: 0,0:00:28.77,0:00:31.25,英文字幕,,0,0,0,,the 747 which might not be immediately obvious
 Dialogue: 0,0:00:31.25,0:00:34.20,英文字幕,,0,0,0,,in various manuals you can get you hands on.
 Dialogue: 0,0:00:34.20,0:00:35.37,英文字幕,,0,0,0,,Health warning:
-Dialogue: 0,0:00:35.37,0:00:37.37,英文字幕,,0,0,0,,any pros watching this trying to glin some information
+Dialogue: 0,0:00:35.37,0:00:39.69,英文字幕,,0,0,0,,any pros watching this trying to glean some information\Nfor your next check
+Dialogue: 0,0:00:39.69,0:00:42.49,英文字幕,,0,0,0,,Please don't, just use your own SOPs and your knowledges
+Dialogue: 0,0:00:43.25,0:00:45.70,英文字幕,,0,0,0,,I'm sure it's equally as good as mine if not much better
+Dialogue: 0,0:00:45.70,0:00:47.76,英文字幕,,0,0,0,,This is just for fun, OK?
+Dialogue: 0,0:00:47.96,0:00:51.78,英文字幕,,0,0,0,,This particular approach is, e...
+Dialogue: 0,0:00:51.78,0:00:54.13,英文字幕,,0,0,0,,onto 27L Heathrow.
+Dialogue: 0,0:00:54.13,0:00:55.86,英文字幕,,0,0,0,,all LOC on
+Dialogue: 0,0:00:55.86,0:00:58.21,英文字幕,,0,0,0,,And ATCs are gonna tell us or ask us
+Dialogue: 0,0:00:58.21,0:01:01.08,英文字幕,,0,0,0,,to go for 27R.
+Dialogue: 0,0:01:01.08,0:01:03.54,英文字幕,,0,0,0,,There are also some bottom lines to this
+Dialogue: 0,0:01:03.54,0:01:05.54,英文字幕,,0,0,0,,Don't do it in bad weather.
+Dialogue: 0,0:01:05.54,0:01:07.72,英文字幕,,0,0,0,,you couldn't be able to see the other runway
+Dialogue: 0,0:01:07.72,0:01:09.72,英文字幕,,0,0,0,,And don't trying do this below 2000ft
