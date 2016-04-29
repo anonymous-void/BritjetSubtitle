@@ -16,9 +16,9 @@ Video File: ../1 - Changing runways on ILS approach.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 6
-Active Line: 23
-Video Position: 1626
+Scroll Position: 56
+Active Line: 61
+Video Position: 3972
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -53,4 +53,42 @@ Dialogue: 0,0:00:58.21,0:01:01.08,英文字幕,,0,0,0,,to go for 27R.
 Dialogue: 0,0:01:01.08,0:01:03.54,英文字幕,,0,0,0,,There are also some bottom lines to this
 Dialogue: 0,0:01:03.54,0:01:05.54,英文字幕,,0,0,0,,Don't do it in bad weather.
 Dialogue: 0,0:01:05.54,0:01:07.72,英文字幕,,0,0,0,,you couldn't be able to see the other runway
-Dialogue: 0,0:01:07.72,0:01:09.72,英文字幕,,0,0,0,,And don't trying do this below 2000ft
+Dialogue: 0,0:01:07.72,0:01:09.85,英文字幕,,0,0,0,,And don't trying do this below 2000ft
+Dialogue: 0,0:01:09.89,0:01:13.97,英文字幕,,0,0,0,,You're gonna run out of time \N to get everything sort for a nice approach
+Dialogue: 0,0:01:15.04,0:01:18.02,英文字幕,,0,0,0,,[C] Taking glass aspect of this
+Dialogue: 0,0:01:18.02,0:01:20.61,英文字幕,,0,0,0,,of that, on the 747
+Dialogue: 0,0:01:20.61,0:01:24.08,英文字幕,,0,0,0,,Once glide slop is captured like this,
+Dialogue: 0,0:01:24.08,0:01:28.82,英文字幕,,0,0,0,,the basic flying modes on the MCP are locked out
+Dialogue: 0,0:01:28.82,0:01:31.68,英文字幕,,0,0,0,,to save your messing up the approach with finger trouble
+Dialogue: 0,0:01:31.68,0:01:35.36,英文字幕,,0,0,0,,So Altitude HLD, V/S, Heading HLD, FLCH
+Dialogue: 0,0:01:35.38,0:01:37.56,英文字幕,,0,0,0,,they don't work.
+Dialogue: 0,0:01:37.58,0:01:38.32,英文字幕,,0,0,0,,Similarly
+Dialogue: 0,0:01:38.32,0:01:40.37,英文字幕,,0,0,0,,you can't select another ILS frequency.
+Dialogue: 0,0:01:40.37,0:01:43.20,英文字幕,,0,0,0,,So if I go to depart the arrival
+Dialogue: 0,0:01:43.20,0:01:45.98,英文字幕,,0,0,0,,trying select another ILS
+Dialogue: 0,0:01:45.98,0:01:47.21,英文字幕,,0,0,0,,You CAN'T
+Dialogue: 0,0:01:47.21,0:01:50.24,英文字幕,,0,0,0,,Again, it's stop for finger trouble.
+Dialogue: 0,0:01:50.24,0:01:52.14,英文字幕,,0,0,0,,The other thing I like you to bear in mind
+Dialogue: 0,0:01:52.14,0:01:53.77,英文字幕,,0,0,0,,it's the ALT SEL
+Dialogue: 0,0:01:53.77,0:01:55.05,英文字幕,,0,0,0,,Now the ALT SEL
+Dialogue: 0,0:01:55.05,0:01:58.40,英文字幕,,0,0,0,,doesn't do anything once the glideslop is captured
+Dialogue: 0,0:01:58.41,0:02:01.01,英文字幕,,0,0,0,,[C] again, nuts to deliberate
+Dialogue: 0,0:02:01.01,0:02:03.97,英文字幕,,0,0,0,,If we gonna take that glideslop out of some stage, however
+Dialogue: 0,0:02:03.97,0:02:05.74,英文字幕,,0,0,0,,the ALT SEL becomes alive
+Dialogue: 0,0:02:05.74,0:02:09.94,英文字幕,,0,0,0,,and you can get seriously in the  way of further approach
+Dialogue: 0,0:02:09.94,0:02:10.58,英文字幕,,0,0,0,,So,
+Dialogue: 0,0:02:10.58,0:02:13.70,英文字幕,,0,0,0,,how we gonna get from 27L to 27R
+Dialogue: 0,0:02:13.70,0:02:15.42,英文字幕,,0,0,0,,or you could fly Go-Around
+Dialogue: 0,0:02:15.42,0:02:17.57,英文字幕,,0,0,0,,tell ATC that you stuff it.
+Dialogue: 0,0:02:17.57,0:02:19.57,英文字幕,,0,0,0,,Or we can say, well, it's a nice day
+Dialogue: 0,0:02:19.57,0:02:23.86,英文字幕,,0,0,0,,we got time, let's go 27R.
+Dialogue: 0,0:02:23.86,0:02:26.36,英文字幕,,0,0,0,,[C] You ought to take out the automatics
+Dialogue: 0,0:02:26.36,0:02:29.12,英文字幕,,0,0,0,,you can't reprogram at this stage.
+Dialogue: 0,0:02:29.12,0:02:31.72,英文字幕,,0,0,0,,You can take them out\Nand just throw it on the other runway visually
+Dialogue: 0,0:02:31.72,0:02:34.36,英文字幕,,0,0,0,,Yep, that's on way, a bit messy.
+Dialogue: 0,0:02:34.36,0:02:36.21,英文字幕,,0,0,0,,Or the way I'm gonna show you
+Dialogue: 0,0:02:36.21,0:02:40.20,英文字幕,,0,0,0,,is......\NPutting the automatic back in,...and...
+Dialogue: 0,0:02:40.20,0:02:41.66,英文字幕,,0,0,0,,get everything sorted so that is
+Dialogue: 0,0:02:41.66,0:02:43.66,英文字幕,,0,0,0,,nice and stable by a thousand feet
+Dialogue: 0,0:02:43.66,0:02:45.46,英文字幕,,0,0,0,,while the check is done
+Dialogue: 0,0:02:45.46,0:02:47.46,英文字幕,,0,0,0,,
