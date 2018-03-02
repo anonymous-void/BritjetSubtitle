@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Download/SimBrief_ Tutorial Video (2016).mp4
-Video File: Download/SimBrief_ Tutorial Video (2016).mp4
+Audio File: SimBrief_ Tutorial Video (2016).mp4
+Video File: SimBrief_ Tutorial Video (2016).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 2
-Active Line: 17
-Video Position: 2707
+Scroll Position: 14
+Active Line: 18
+Video Position: 2868
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,4 +43,5 @@ Dialogue: 0,0:01:09.52,0:01:13.86,Default,,0,0,0,,使用条款与隐私声明也
 Dialogue: 0,0:01:14.34,0:01:16.34,Default,,0,0,0,,最后是关于（About）菜单
 Dialogue: 0,0:01:16.34,0:01:21.14,Default,,0,0,0,,包含了网站基本信息与作者等方面的说明
 Dialogue: 0,0:01:21.14,0:01:30.22,Default,,0,0,0,,虚拟航空（Virtual Airlines）列出了一些集成在\NSimBrief中的虚拟航空
-Dialogue: 0,0:01:30.22,0:01:32.22,Default,,0,0,0,,如果你想要在航路计划中使用\N特定航空公司的特殊功能
+Dialogue: 0,0:01:30.22,0:01:35.36,Default,,0,0,0,,如果你想要在航路计划中使用\N特定航空公司的特殊功能，你可以在这里找到
+Dialogue: 0,0:01:33.62,0:01:35.62,Default,,0,0,0,,
